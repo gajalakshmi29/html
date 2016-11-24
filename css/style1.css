@@ -1,0 +1,54 @@
+
+
+ul a:hover{
+	color: purple;
+}
+
+ nav li
+{
+	display:inline;
+	
+}
+#li{
+	background-color: red;
+}
+#container
+{
+	color: red;
+}
+#h1
+{
+	 
+	 width:100%;
+	
+	 font-size:15px;
+	font-family: 'Bungee Inline', cursive;
+	 font-weight:bold;
+}
+p
+{
+	font-family: 'Bungee Inline', cursive;
+	
+	font-size:20px;"
+}
+footer{
+	background-color:pink;zwidth:100%;
+}
+#sec1
+{
+	clear:both;
+	background-color: grey;
+}
+#c1
+{
+	background-color: cyan;
+}
+#h
+{
+	text-align: center;
+}
+#s2
+{
+	background-color:  #ccffe6
+;
+}

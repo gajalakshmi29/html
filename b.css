@@ -1,0 +1,39 @@
+
+
+ul a:hover{
+	color: purple;
+}
+ul{
+
+	float:right;
+}
+ nav ul
+}
+{
+	display:inline;
+	
+}
+
+#headerid
+{
+	 float:left; 
+	 width:100%;
+	 margin-top: 0px;
+	 background-color:pink;
+	 font-size:15px;
+	 font-family: 'Mallanna',sans-serif;
+	 font-weight:bold;
+}
+body
+{
+	font-family: 'Ravi Prakash', cursive;
+	font-size:20px;
+	background-color: green;
+}
+#f{
+	background-color:pink;width:100%;
+}
+
+#footerid,#footerid1{
+	background-color:pink;width:100%;
+}
