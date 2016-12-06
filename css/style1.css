@@ -19,7 +19,7 @@ ul a:hover{
 #h1
 {
 	 
-	 width:100%;
+ width:100%;
 	
 	 font-size:15px;
 	font-family: 'Bungee Inline', cursive;
@@ -32,7 +32,7 @@ p
 	font-size:20px;"
 }
 footer{
-	background-color:pink;zwidth:100%;
+	background-color:grey;zwidth:100%;
 }
 #sec1
 {
@@ -49,6 +49,5 @@ footer{
 }
 #s2
 {
-	background-color:  #ccffe6
-;
+	background-color:  #ccffe6;
 }
